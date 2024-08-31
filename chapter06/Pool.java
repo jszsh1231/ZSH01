@@ -1,4 +1,4 @@
-package Chapter06;
+package Chapter01.Chapter06;
 
 public class Pool { // 创建水池类
 	public static int water = 0; // 初始化静态变量之水池中的水量为0

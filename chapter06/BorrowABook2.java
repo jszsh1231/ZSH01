@@ -1,6 +1,6 @@
 //branch testing RevA
 
-package Chapter06;
+package Chapter01.Chapter06;
 
 public class BorrowABook2 { // 创建借书类
 	String name; // 属性：书名
